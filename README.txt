@@ -1,1 +1,1 @@
-This assignment folder includes files related to implementation of iTransform Git 
+This assignment folder includes files related to implementation of iTransform Git and GitHub.
